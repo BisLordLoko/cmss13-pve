@@ -18,3 +18,6 @@
 
 /// CMBS, CMB Synthetic
 #define PAY_SHORT_CMBS "CMBS"
+
+/// FBI, Special Agent
+#define PAY_SHORT_FBI "FBI"

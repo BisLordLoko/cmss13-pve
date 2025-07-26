@@ -30,3 +30,7 @@
 /datum/paygrade/cmb/observer
 	paygrade = PAY_SHORT_IHRO
 	name = "Interstellar Human Rights Observer"
+
+/datum/paygrade/cmb/fbi
+	paygrade = PAY_SHORT_FBI
+	name = "Special Agent"

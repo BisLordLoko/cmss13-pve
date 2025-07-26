@@ -818,6 +818,13 @@
 	worn_state = "marshal"
 	flags_jumpsuit = UNIFORM_SLEEVE_ROLLABLE|UNIFORM_JACKET_REMOVABLE
 
+/obj/item/clothing/under/cmb/usccg
+	name = "\improper Colonial Coast Coard service uniform"
+	desc = "A pair of off-white slacks and a blue button-down shirt with a dark brown tie; a service uniform used by Colonial Coast Guard investigators, looking more like a cop then someone who works in a spaceship."
+	icon_state = "marshal"
+	worn_state = "marshal"
+	flags_jumpsuit = UNIFORM_SLEEVE_ROLLABLE|UNIFORM_JACKET_REMOVABLE
+
 /obj/item/clothing/under/liaison_suit
 	name = "liaison's tan suit"
 	desc = "A stiff, stylish tan suit commonly worn by businessmen from the Weyland-Yutani corporation. Expertly crafted to make you look like a prick."
